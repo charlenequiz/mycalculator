@@ -58,7 +58,7 @@ public class Calculator {
 			else return middle;
 		}
 		
-		return 1;
+		return -1;
 	}
 	
 	
